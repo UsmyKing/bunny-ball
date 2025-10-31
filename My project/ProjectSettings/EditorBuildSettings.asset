@@ -4,5 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UnityTechnologies/BunnyBall/Scenes/Level 1.unity
+    guid: 4d1bd210cfb109d408a92d01118d79a8
+  - enabled: 1
+    path: Assets/UnityTechnologies/BunnyBall/Scenes/Level 2.unity
+    guid: ae2c42ae2f132a644919b60fbd824e99
+  - enabled: 1
+    path: Assets/UnityTechnologies/BunnyBall/Scenes/Level 3.unity
+    guid: 90564193cf9754a4295d93555e861d4f
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
